@@ -4,6 +4,9 @@ The AWS Certified Cloud Practitioner ( CLF-C01 ) is one of the top paying IT cer
 
 The AWS Certified Cloud Practitioner exam is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS certifications (for example, AWS Certified Solutions Architect Associate, AWS Certified Developer Associate, or AWS Certified SysOps Administrator Associate). It is recommended to take the AWS Certified Cloud Practitioner exam first before getting any Associate level certification, especially for those who are new to cloud. Take your career and salary to the next level with an AWS Cloud Practitioner certification!
 
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-amazon/?referralCode=6EFADFC40C4402C9F3AC
+
+
 This AWS Certified Cloud Practitioner Practice Exam course is for anyone who is looking for a study material that provides the following:
 
  - 260 TOP-NOTCH Questions - has 4 sets of AWS Practice Tests with 65 UNIQUE questions and a 90-minute time limit for each set.
@@ -32,6 +35,9 @@ This AWS Certified Cloud Practitioner Practice Exam course is for anyone who is 
 
  - Prepared by AWS Certified Professionals who actually passed the AWS Cloud Practitioner exam! (Please see our LinkedIn profile to view our AWS Certificates)
 
+
+Here's the link: 
+https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-amazon/?referralCode=6EFADFC40C4402C9F3AC
 
 Some people are using brain dumps for the AWS CCP exam which is totally absurd and highly unprofessional because these dumps will not only hinder you from attaining an in-depth AWS knowledge, these can also result with you failing the actual AWS certification exam since Amazon regularly updates the exam coverage.
 
